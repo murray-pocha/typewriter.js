@@ -1,4 +1,4 @@
-const sentence = 'Hello there from lighthouse labs!';
+const sentence = 'Hello there from Murray, I hope your having a wonderful day!';
 
 let delay = 0;
 
